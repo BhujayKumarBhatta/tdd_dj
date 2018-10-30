@@ -9,8 +9,8 @@ from selenium import webdriver
 browser = webdriver.Firefox()
 
 # sumanta goes to check his new website
-browser.get('http://localhost')
+browser.get('http://localhost:8000')
 
 # can see 'info ops' in the browser title
-assert 'django' in browser.title
+assert 'Django' in browser.title
 
