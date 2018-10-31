@@ -1,0 +1,33 @@
+1540901476864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0jKsQP5eUj30"
+1540901482888	Marionette	INFO	Listening on port 36515
+1540901482978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540901507349	Marionette	INFO	Stopped listening on port 36515
+1540902643330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xmhp7mhSMUt8"
+1540902648783	Marionette	INFO	Listening on port 36093
+1540902648978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+1540902797120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SQePxVDicYFU"
+1540902807354	Marionette	INFO	Listening on port 38041
+1540902807451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540902840768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E30jfuzG3Vp0"
+1540902853200	Marionette	INFO	Listening on port 34047
+1540902853330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540902861053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dhlXks70XpP0"
+1540902871556	Marionette	INFO	Listening on port 36687
+1540902871595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+1540905414008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pkzwfjhPBVua"
+1540905422575	Marionette	INFO	Listening on port 45343
+1540905422658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540905423314	Marionette	INFO	Stopped listening on port 45343
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+[Parent 62099, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-j7tNrI/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 62099, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-j7tNrI/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 60866, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-j7tNrI/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540905800960	Marionette	INFO	Stopped listening on port 36687
+1540951292054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yLF8FoRHkQkk"
+1540951298487	Marionette	INFO	Listening on port 34963
+1540951298541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540951299189	Marionette	INFO	Stopped listening on port 34963
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
