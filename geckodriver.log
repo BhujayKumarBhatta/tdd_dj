@@ -31,3 +31,25 @@ JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: 
 1540951299189	Marionette	INFO	Stopped listening on port 34963
 JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
 JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s.zkcdn.net/ss/762550.js, line 95: SyntaxError: illegal character
+JavaScript error: https://s.zkcdn.net/ss/762550.js, line 95: SyntaxError: illegal character
+JavaScript error: https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/?cf_action=sync_comments&post_id=3996, line 1: SyntaxError: expected expression, got '<'
+1540954003740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7Tw710JyTIZA"
+1540954010047	Marionette	INFO	Listening on port 39137
+1540954010128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540954010761	Marionette	INFO	Stopped listening on port 39137
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 423: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 423: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1540954105049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oF5OUkhXNkea"
+1540954110975	Marionette	INFO	Listening on port 39463
+1540954111144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540954111808	Marionette	INFO	Stopped listening on port 39463
+1540954237280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lm5Xa0tzKuT7"
+1540954243034	Marionette	INFO	Listening on port 32817
+1540954243125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540954243832	Marionette	INFO	Stopped listening on port 32817
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
